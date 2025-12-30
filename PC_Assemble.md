@@ -1,7 +1,12 @@
 # PC Assembly Workshop
 
 ## 📌 Description
-In this workshop, I participated in a practical session to learn how to assemble a Personal Computer (PC) from scratch. The goal was to understand the hardware components and how they connect to the motherboard.
+This semester I participated in a PC assembly session as part of my ICT (Information & Communication Technology) course. It was an excellent opportunity to understand component configuration, hardware functionality, and compatibility standards.
+
+The experience gave me a broader perspective on troubleshooting, organizing work steps, and systematically building a complete system from scratch.
+
+This type of practical application reinforces the real-world application of theoretical content and will help me develop deeper technical skills in the future.
+
 
 ## 📸 Activity Photos
 
