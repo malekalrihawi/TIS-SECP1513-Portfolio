@@ -1,12 +1,12 @@
 # My TIS E-Portfolio
 
 ## 👤 Student Profile
-<img src="ضع_رابط_صورتك_هنا_اذا_اردت" width="150" height="150">
+<img src=" C:\Users\malek\Downloads\شعار المستشار المالي الحديث باللونين الذهبي والأزرق(2).png " width="150" height="150">
 
-* **Name:** Malek Alrihawi
-* **Matric No:** [A25CS4013]
+* **Name:** MALEK ALRIHAWI
+* **Matric No:** A25CS4013
 * **Faculty:** Faculty of Computing, UTM
-* **Program:** [Network & Security]
+* **Program:** Network & Security
 
 ---
 
