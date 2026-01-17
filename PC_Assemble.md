@@ -7,7 +7,7 @@ The experience gave me a broader perspective on troubleshooting, organizing work
 
 This type of practical application reinforces the real-world application of theoretical content and will help me develop deeper technical skills in the future.
 
-
+ 
 ## 📸 Activity Photos
 
 *![photo_2025-12-31_02-41-34](https://github.com/user-attachments/assets/12c0a5c0-c973-4a04-b07b-cfd2a5b1c57b)*
