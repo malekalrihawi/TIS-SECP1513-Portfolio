@@ -30,3 +30,6 @@ Here is a collection of my tasks and projects for the Technology and Information
 
 ### 5. 💻 [UTMDigital Discussion](./UTM_digital.md)
 *A session on building digital systems efficiently using Agile methodology and the importance of communication.*
+
+### 6. 🏭 [Industry Visit: Biocon](./Industry_VISIT.md)
+*A visit to Asia's largest insulin manufacturer to observe the convergence of IT and manufacturing operations.*
