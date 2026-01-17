@@ -1,4 +1,4 @@
-# Industry Talk & Visit
+# Industry Talk 1
 
 ## 📌 Description
 As part of the Technology and Information System course, I engaged in industrial learning sessions to bridge the gap between academic concepts and real-world IT applications. This included a discussion session with UTMDigital and an in-depth analysis of PPG Industries' IT operations.
