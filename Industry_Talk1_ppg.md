@@ -1,29 +1,26 @@
-# Industry Talk 1
+# Industry Talk: PPG Global 🎨
 
-## 📌 Description
-As part of the Technology and Information System course, I engaged in industrial learning sessions to bridge the gap between academic concepts and real-world IT applications. This included a discussion session with UTMDigital and an in-depth analysis of PPG Industries' IT operations.
+## My first Industry Talk experience at UTM 🚀
 
-  **![photo_2025-12-31_03-03-02](https://github.com/user-attachments/assets/edd3ffe5-4f66-43b5-a93d-1dc4081d7e2e)** 
+On **November 20th**, I had the privilege of attending my very first industry talk at **Universiti Teknologi Malaysia (UTM)**, featuring the global giant, **PPG**.
 
-### 1. UTMDigital Session: Building Digital Systems
-On October 29, I attended a discussion session presented by **Dr. Helmee Bin Yaacob** from UTMDigital. He delivered an in-depth perspective on how to build digital systems efficiently, with a strong focus on the **Agile methodology**. Dr. Helmee highlighted the importance of continuous communication between developers and clients to ensure the accuracy and quality of the final product, supported by a practical example showcasing the development stages of the **UTMSMART** application.
+While most know PPG for their paints and coatings, I was fascinated to look under the hood and see how their IT Department acts as the engine keeping this massive organization running.
 
-### 2. PPG Industry Talk: Global IT Operations
-I also explored the IT framework of **PPG Industries**, a global leader in paints and coatings. The session highlighted how their IT department operates through specialized **Centers of Excellence (CoE)** to support global business operations. Key areas discussed included:
-* **Data Analytics:** Using data to drive business decisions and improve efficiency.
-* **Global Infrastructure:** Managing cloud computing and server connectivity worldwide.
-* **SAP Systems:** Integrating core business processes (like manufacturing and finance) into a unified Enterprise Resource Planning (ERP) system.
+![Poster Design](        ![531074026-edd3ffe5-4f66-43b5-a93d-1dc4081d7e2e](https://github.com/user-attachments/assets/048824e1-19d0-48c4-a9ee-6fbca76c7320)
+*Figure 1: The summary poster designed by our team*
 
-## 📸 Activity Photos (Poster)
- **![photo_2025-12-31_02-52-49](https://github.com/user-attachments/assets/258555f2-5e6f-4426-acd0-18303b5194c7)**
+### 💡 Key Pillars of Operations
+The session broke down how three core pillars support their global operations:
+- **🔹 Data Analytics:** Transforming complex, unstructured data into strategic, long-term business decisions.
+- **🔹 Global IT Infrastructure:** The backbone that connects PPG’s branches worldwide through seamless cloud services.
+- **🔹 SAP Team:** The integrators who ensure all business departments speak the same language through unified ERP systems.
 
-## 💭 Reflection
+### 💭 Reflection
+It was an eye-opening realization of just how vital IT is to the health of a manufacturing powerhouse. Inspired by these insights, my team and I created a poster to summarize our key takeaways.
 
-### 1. What I gained:
-* **Methodologies in Action:** From Dr. Helmee's session, I learned how the **Agile methodology** is applied in real projects like UTMSMART to maintain flexibility and quality.
-* **Corporate IT Structure:** The PPG analysis helped me understand how large multinational companies organize their IT departments (Data Analytics, Infrastructure, SAP) to support business prosperity.
-* **The Human Element:** Beyond technical skills, I realized that passion and psychological well-being are key drivers for creativity and consistency in the tech workspace.
+### 📸 Event Photos & Poster
+Here is the poster we designed and a glimpse from the talk:
 
-### 2. Suggestions for improvement:
-* **Bridging the Gap:** It became clear that industry expectations can differ from classroom learning. To improve, I suggest more sessions that simulate real-world "problem-solving" scenarios faced by companies like PPG.
-* **Direct Engagement:** Having more Q&A opportunities with industry practitioners (like Dr. Helmee) allows for a deeper understanding of the challenges developers face daily.
+
+![Event Photo](   ![1768643413849](https://github.com/user-attachments/assets/b69620f1-f1c8-4d8b-a44d-95e21ea69ea2)
+*Figure 2: the PPG Industry Talk poster*
