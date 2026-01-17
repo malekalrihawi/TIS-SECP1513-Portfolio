@@ -12,6 +12,11 @@ This project taught me that the best technical solutions start with deep human u
 - ✅ Prototyping & UI/UX Design.
 - ✅ Project Management.
 
+- ### 💭 Reflection
+**1. What I gained:**
+- I learned the 5 stages of Design Thinking (Empathize, Define, Ideate, Prototype, Test).
+- It enhanced my ability to work in a team and brainstorm creative ideas effectively.
+
 ### 🔗 Project Links
 - 🌐 **Website:** [Click here to view](https://lnkd.in/gEtRi9nG)
 - 🎥 **Video:** [Click here to watch](https://lnkd.in/gES9EApg)
