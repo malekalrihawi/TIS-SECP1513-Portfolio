@@ -1,4 +1,4 @@
-# My ICT E-Portfolio
+# My TIS E-Portfolio
 
 ## 👤 Student Profile
 
