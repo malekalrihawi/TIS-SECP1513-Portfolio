@@ -15,8 +15,7 @@ This project taught me that the best technical solutions start with deep human u
 ### 🔗 Project Links
 - 🌐 **Website:** [Click here to view](https://lnkd.in/gEtRi9nG)
 - 🎥 **Video:** [Click here to watch](https://lnkd.in/gES9EApg)
-- 📄 **Full Report:** [Download PDF](   [1768488074795.pdf](https://github.com/user-attachments/files/24691562/1768488074795.pdf)
-  )
+- 📄 **Full Report:** [Download PDF]  [1768488074795.pdf](https://github.com/user-attachments/files/24691562/1768488074795.pdf)
 
 ---
 *Note: This project was a collaborative effort to support the neurodivergent community through digital innovation.*
