@@ -1,16 +1,22 @@
 # Design Thinking Project
 
-## 📌 Description
-This project focuses on solving a specific problem using the Design Thinking methodology. We created a Low Fidelity Prototype to demonstrate our solution.
+## Designing with Empathy: A solution for the Neurodivergent Community 🧠
 
-## 📸 Prototype Images
+Design Thinking is more than just a process; it's about stepping into someone else's shoes to solve their real-world problems.
 
-*( add photo later )*
+For our **Technology & Information Systems (SECP1513)** project, my team and I set out to address a specific challenge faced by the **ADHD and Autism community**. Our goal was not just to build a "system," but to create a digital prototype that genuinely alleviates their daily hurdles.
 
-## 💭 Reflection
-### 1. What I gained:
-* I learned the 5 stages of Design Thinking (Empathize, Define, Ideate, Prototype, Test).
-* It enhanced my ability to work in a team and brainstorm creative ideas.
+### 🚀 Key Takeaways
+This project taught me that the best technical solutions start with deep human understanding. It refined my skills in:
+- ✅ Problem Identification & Empathy Mapping.
+- ✅ Prototyping & UI/UX Design.
+- ✅ Project Management.
 
-### 2. Suggestions for improvement:
-* We could interview more users to get better feedback in the "Empathize" stage.
+### 🔗 Project Links
+- 🌐 **Website:** [Click here to view](https://lnkd.in/gEtRi9nG)
+- 🎥 **Video:** [Click here to watch](https://lnkd.in/gES9EApg)
+- 📄 **Full Report:** [Download PDF](   [1768488074795.pdf](https://github.com/user-attachments/files/24691562/1768488074795.pdf)
+  )
+
+---
+*Note: This project was a collaborative effort to support the neurodivergent community through digital innovation.*
